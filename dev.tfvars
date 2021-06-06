@@ -1,0 +1,5 @@
+vpc_cidr     = "10.30.0.0/16"
+vpc_name     = "ICICI_VPC"
+vpc_tendancy = "default"
+subnet_cidr  = "10.30.0.0/25"
+subnet_name  = "ICICI_SUBNET"
